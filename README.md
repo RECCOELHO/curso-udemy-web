@@ -1,2 +1,2 @@
-# curso-udemy-web
- Esse curso que eu esqueci que eu tinha... mas vamo focar agora
+# curso de  Web Full Stack
+ Esse curso eu tenho faz tempo mas agora voltei a estudar por ele.
