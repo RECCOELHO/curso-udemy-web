@@ -1,11 +1,11 @@
 
-## Bem-vindo ao README do Curso Udemy Web Full-stack!
+# Bem-vindo ao README do Curso Udemy Web Full-stack!
 Este documento fornecerá informações essenciais sobre o curso que eu tinha esquecido e estou voltando a fazer, ajudando-me a se situar e retomar seus estudos com facilidade.
 
-Objetivo
+### Objetivo
 O objetivo deste curso é fornecer aos participantes conhecimentos e habilidades essenciais em full-stack. Durante o curso, você terá a oportunidade de aprender conceitos fundamentais, praticar com exercícios e projetos.
 
-# Tópicos Abordados
+## Tópicos Abordados
 Alguns dos tópicos que serão abordados no curso incluem:
 
 * Tópico 1 = HTML5
@@ -14,13 +14,13 @@ Alguns dos tópicos que serão abordados no curso incluem:
 * Tópico 4 = HTML5 & CSS3 Recursos especias
 ...vou atualizando com o andamento do curso.
 
-# Duração
+## Duração
 O curso é vitalicio então eu vou continuar a postar aqui enquando eu estiver estudando por ele.
 
-Plataforma de Ensino
+## Plataforma de Ensino
 O curso é ministrado por meio da plataforma de ensino online ["Udemy"](https://www.udemy.com/). Nessa plataforma, você encontrará todo o material didático, aulas gravadas, exercícios práticos, fóruns de discussão e recursos adicionais.
 
-Como Acessar o Curso
+### Como Acessar o Curso
 Para acessar o curso, basta seguir os seguintes passos:
 
 Acesse o site "URL da Plataforma".
