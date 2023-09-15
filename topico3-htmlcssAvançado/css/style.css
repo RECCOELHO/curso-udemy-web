@@ -1,0 +1,8 @@
+*{
+    border: 3px solid brown;
+}
+ 
+
+li>a{
+    background-color: yellowgreen;
+}
