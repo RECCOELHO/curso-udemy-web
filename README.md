@@ -23,9 +23,8 @@ O curso é ministrado por meio da plataforma de ensino online ["Udemy"](https://
 ### Como Acessar o Curso
 Para acessar o curso, basta seguir os seguintes passos:
 
-Acesse o site "URL da Plataforma".
+Acesse o site https://www.udemy.com/course/web-completo/
 Faça o login com suas credenciais ou crie uma nova conta, caso ainda não tenha.
-Procure pelo curso "Nome do Curso" na lista de cursos disponíveis.
 Matricule-se no curso e comece a aprender!
 Metodologia de Ensino
 O curso combina aulas teóricas, exercícios práticos, projetos, estudos de caso e outras atividades para proporcionar uma experiência de aprendizado abrangente e prática.
@@ -33,12 +32,7 @@ O curso combina aulas teóricas, exercícios práticos, projetos, estudos de cas
 Avaliação e Certificado
 A avaliação do curso é baseada na participação nas atividades, projetos e em avaliações periódicas. Ao concluir o curso com sucesso, você receberá um certificado de conclusão, reconhecendo suas habilidades e conhecimentos adquiridos.
 
-Suporte ao Aluno
-Caso tenha dúvidas ou problemas ao longo do curso, você pode contar com o suporte da equipe responsável pela plataforma ou diretamente com os instrutores. Aproveite ao máximo essa oportunidade para esclarecer suas questões e aprimorar seu aprendizado.
-
 Considerações Finais
-Neste README, fornecemos uma visão geral do curso (ou projeto) que você está voltando a fazer. Lembre-se de que o aprendizado é um processo contínuo, então não hesite em revisar conteúdos anteriores, interagir com outros participantes e praticar bastante.
+Neste README, fornecemos uma visão geral do curso que você está voltando a fazer. Lembre-se de que o aprendizado é um processo contínuo, então não hesite em revisar conteúdos anteriores, interagir com outros participantes e praticar bastante.
 
 Desejamos a você uma excelente jornada de aprendizado e sucesso no curso!
-
-Nota: Lembre-se de substituir as informações entre colchetes (como "Nome do Curso", "Tópico 1", "Pré-requisito 1", etc.) pelos dados reais do curso que você está retomando. Além disso, adicione a logo do curso (se houver) alterando "link_para_logo.png" para a URL correta da imagem.
