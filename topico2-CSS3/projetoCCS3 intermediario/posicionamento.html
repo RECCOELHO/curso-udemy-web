@@ -13,6 +13,7 @@
         width: 800px;
         margin: 10px auto;
         padding: 10px;
+        position: relative;
     }
 
     h1{
@@ -24,9 +25,11 @@
         width: 300px;
     }
 
-    .absolute{
+    .fixed {
         border: 1px solid red;
-        position: absolute;
+        position: fixed;
+        top: 0px;
+        right: 0px;
         
     }
     .relative{
@@ -41,7 +44,7 @@
     <div id="conteiner">
         <h1>Posicionamentoss</h1>
         <p> P1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt quam nostrum, ipsam laudantium alias ut asperiores ipsa, quisquam hic odit doloremque iste unde mollitia est nisi! Quis sed doloribus eos.</p>
-        <p class="absolute">P2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt quam nostrum, ipsam laudantium alias ut asperiores ipsa, quisquam hic odit doloremque iste unde mollitia est nisi! Quis sed doloribus eos.</p>
+        <p class="fixed">P2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt quam nostrum, ipsam laudantium alias ut asperiores ipsa, quisquam hic odit doloremque iste unde mollitia est nisi! Quis sed doloribus eos.</p>
         <p>P3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt quam nostrum, ipsam laudantium alias ut asperiores ipsa, quisquam hic odit doloremque iste unde mollitia est nisi! Quis sed doloribus eos.</p>
     </div>
 </body>
