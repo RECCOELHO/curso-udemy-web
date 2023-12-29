@@ -20,6 +20,13 @@ body{
 #area-logo, #area-menu{
     padding: 10px;
 }
+
+#area-principal{
+    background-color: white;
+    width: 920px;
+    margin: 0 auto;
+}
+
 /* 
 FORMATAÇÕES DO MENU
 */
