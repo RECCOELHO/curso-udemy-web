@@ -27,6 +27,16 @@ body{
     margin: 0 auto;
 }
 
+#area-postagens{
+    width: 660px;
+
+}
+
+#area-lateral{
+    width: 240px;
+    
+}
+
 /* 
 FORMATAÇÕES DO MENU
 */
