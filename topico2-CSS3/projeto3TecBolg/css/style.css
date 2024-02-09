@@ -29,6 +29,7 @@ body{
 }
 
  #area-lateral{
+
 }
 
 #area-postagens{
@@ -55,12 +56,20 @@ body{
     margin-bottom: 20px;
 }
 
+.postagem-lateral{
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px solid #424242
+}
+
 #rodape{
     clear: both;
     text-align: center;
     padding: 15px;
     background-color:#ccc;
 }
+
+
 
 /* 
 FORMATAÇÕES DO MENU
@@ -103,7 +112,9 @@ h2{
 }
 
 h3{
-    color: #f7b600;
+    color: #565656;
+    background: #ccc;
+    padding: 5px;
 }
 
 .branco{
@@ -121,3 +132,4 @@ h3{
     display: block;
 
 }
+
