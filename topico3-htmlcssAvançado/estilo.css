@@ -1,15 +1,3 @@
-/* ul{
-
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-} 
-
-
-li {
-    padding: 5px 20px;
-    background: url(img/seta.png) no-repeat;
-} */
 
 ul{
     margin: 0; 
@@ -29,8 +17,9 @@ ul a {
 
 }
 
-a:hover {
+a:hover, .selecionado a{
     background-position: right bottom;
     background-color: #f99200;
     color: aliceblue;
 }
+
