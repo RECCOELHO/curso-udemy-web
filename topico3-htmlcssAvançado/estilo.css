@@ -1,4 +1,3 @@
-
 ul{
     margin: 0; 
     padding: 0;
@@ -17,9 +16,18 @@ ul a {
 
 }
 
-a:hover, .selecionado a{
+a:hover {
     background-position: right bottom;
     background-color: #f99200;
     color: aliceblue;
 }
 
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servico #navegacao .servico a,
+#noticias #navegacao .noticias a,
+#contato #navegacao .contato a{
+    background-position: right bottom;
+    background-color: #f99200;
+    color: aliceblue;
+}
